@@ -11,7 +11,7 @@
           </slider>
         </div>
         <div class="recommend-list" ref="recommendList">
-          <h1 class="title">推荐歌单</h1>
+          <h1 class="title">推荐歌单123</h1>
           <ul>
             <li class="item" v-for="item in playList" :key="item.id">
               <div class="icon" @click="selectList(item)">
