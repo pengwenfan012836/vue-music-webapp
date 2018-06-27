@@ -9,7 +9,6 @@
         <h1 class="title">{{headerTitle}}</h1>
       </div>
     </div>
-    
     <scroll class="list"
     @scroll="scroll"
     :probe-type="probeType"

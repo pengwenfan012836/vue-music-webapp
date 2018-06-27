@@ -4,5 +4,6 @@ export default class Singer {
     this.name = name
     this.avatar = avatar
     this.aliaName = aliaName
+    this.age = 16
   }
 }
